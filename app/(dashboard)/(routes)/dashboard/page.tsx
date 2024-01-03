@@ -1,6 +1,10 @@
+import ToolsNavigation from "@/components/dashboard/tools-navigation"
+
 const DashboardPage = () => {
   return (
-    <div>DashboardPage</div>
+    <div>
+      <ToolsNavigation />
+    </div>
   )
 }
 
